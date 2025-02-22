@@ -1,0 +1,6 @@
+我的一些杂七杂八的东西。
+------计算酚酞的两个酸碱状态的UV-vir光谱-----
+算H2In和HIn-两个
+noanion和noanionnicetry是H2In，
+noanion最后结果算的是单点和波函数相关（.wfn和.wfx）
+noanionnicetry算的是freq。
