@@ -3,4 +3,7 @@ azoviolet_3.out is the azoviolet- with Mg2+, however, SMD=water
 however, the max spectrum curve are 293.7020nm, 497.4569nm, 319.412nm.(see azoviolet_3.out and )
   accroding to the wiki(Wikipedia contributors. (2024, September 27). Azo violet. In Wikipedia, The Free Encyclopedia. Retrieved 03:19, March 6, 2025, from https://en.wikipedia.org/w/index.php?title=Azo_violet&oldid=1248038048 )
   the maxium(without Mg2+) is about 432nm
-i use mutiwfn to evaulate its color, it's not match the phenomena(see dislin_1.png)
+i use mutiwfn to evaulate its color, it's not very match the phenomena(see dislin_1.png)
+
+then, i try to run azo-_Mg2+_(OH-)2 (see azoviolet_4_neg1_TDDFT.out)
+      the color is not very match the phenomena either(see dislin_2.png)
