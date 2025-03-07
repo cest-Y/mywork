@@ -6,4 +6,5 @@ however, the max spectrum curve are 293.7020nm, 497.4569nm, 319.412nm.(see azovi
 i use mutiwfn to evaulate its color, it's not very match the phenomena(see dislin_1.png)
 
 then, i try to run azo-_Mg2+_(OH-)2 (see azoviolet_4_neg1_TDDFT.out)
-      the color is not very match the phenomena either(see dislin_2.png)
+      although the color is not very match the phenomena either(see dislin_2.png)
+      
