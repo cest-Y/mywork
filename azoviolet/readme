@@ -1,10 +1,15 @@
 i want to know why the color of azoviolet is purple when coupled with Mg2+ in the base enviroment.
-azoviolet_3.out is the azoviolet- with Mg2+, however, SMD=water 
-however, the max spectrum curve are 293.7020nm, 497.4569nm, 319.412nm.(see azoviolet_3.out and )
-  accroding to the wiki(Wikipedia contributors. (2024, September 27). Azo violet. In Wikipedia, The Free Encyclopedia. Retrieved 03:19, March 6, 2025, from https://en.wikipedia.org/w/index.php?title=Azo_violet&oldid=1248038048 )
-  the maxium(without Mg2+) is about 432nm
-i use mutiwfn to evaulate its color, it's not very match the phenomena(see dislin_1.png)
+i.e. the structure of the unkonw molecular
+azoviolet_3.out is the azoviolet- with Mg2+, without any ligands, and the solvent is wather(SMD) 
+however, the max spectrum curve are 293.7020nm, 497.4569nm, 319.412nm.(see azoviolet_3.out)
+i use mutiwfn to evaulate its color, it is close to the color that i observed in the lab(see dislin_1.png)
 
-then, i try to run azo-_Mg2+_(OH-)2 (see azoviolet_4_neg1_TDDFT.out)
-      although the color is not very match the phenomena either(see dislin_2.png)
-      
+then, i try to the structure with ligand.
+first, i try ligand = 2OH-
+azo-_Mg2+_(OH-)2 (see azoviolet_4_neg1_TDDFT.out)
+the color is displayed in the dislin_2.png
+you can see the color is not match. the color is fall between the blue area and the green area.
+second, i try the ligand = 2H2O, see dislin_3.png
+the color is between dislin_1.png and dislin_2.png
+
+so,
